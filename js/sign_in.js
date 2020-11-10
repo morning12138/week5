@@ -7,6 +7,7 @@ $(function () {
     const setting_post = {
         method: "POST"
     }
+    //张宇杭超帅
 
     //variables
     let input_school_number = $('#input-value');
